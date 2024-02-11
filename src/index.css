@@ -36,6 +36,7 @@ html {
 
 body {
   line-height: 1.5;
+  font-family: var(--fontstack-system-sans);
 }
 
 /* Balances multi-line headings to prevent orphans */
