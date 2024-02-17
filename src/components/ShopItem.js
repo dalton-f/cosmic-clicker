@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function ShopItem() {
+export default function ShopItem({ data, setData }) {
   return (
     <div>
       <h3>Shop Item Name</h3>
