@@ -20,7 +20,7 @@ export default function App() {
 
   return (
     <>
-      <Clicker />
+      <Clicker data={data} setData={setData} />
       <Shop data={data} setData={setData} />
     </>
   );
